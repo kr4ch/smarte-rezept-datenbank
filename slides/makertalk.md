@@ -446,12 +446,13 @@ Presenter Notes:
 ![bg cover opacity:0.2](bg-gemini-final.jpeg)
 
 * **Was ich gelernt habe:**
-  * Lokale Container-Infrastruktur ist stabile Grundlage für vielfältige Open-Source Lösungen.
+  * Docker Container als stabile Grundlage für vielfältige Open-Source Projekte.
   * n8n ist ein Allzweck-Tool für API-Integrationen.
   * KI (LLMs) eignet sich als Parser für unstrukturierte Daten; mit gewissen Gefahren..
 * **Wie es weitergeht (Zukunftsprojekte):**
   * **100% lokal:** Cloud-KI durch lokale Modelle ersetzen (z.B. Ollama direkt auf dem Homeserver).
   * **Rezept Foto:** Automatisiertes scrapen des Fotos direkt ins Mealie Rezept.
+* Alle Infos unter https://github.com/kr4ch/smarte-rezept-datenbank
 
 **Fragen? Diskussion?**
 
